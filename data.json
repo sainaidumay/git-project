@@ -1,0 +1,24 @@
+{"card":[
+    {   
+      "img":"images/A.jpg",
+      "name":"Samsung",
+      "rate":"10000",
+      "offer":"8000",
+      "button":"Click Me"
+   },
+  {   
+      "img":"images/B.jpg",
+      "name":"S2S",
+      "rate":"20000",
+      "offer":"15000",
+      "button":"Click Me"
+   },
+      {   
+      "img":"images/C.jpg",
+      "name":"Jio",
+      "rate":"15000",
+      "offer":"11000",
+      "button":"Click Me"
+   }
+  ]}
+  
